@@ -1,5 +1,5 @@
 # Face-Recogination-Using-Django
-# Face detection and facial recognition along with recognized persons information fetched from database.
+Face detection and facial recognition along with recognized persons information fetched from database.
 
 # General Languages and versions
 
