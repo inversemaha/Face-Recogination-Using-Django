@@ -1,7 +1,7 @@
 # Face-Recogination-Using-Django
-#Face detection and facial recognition along with recognized persons information fetched from database.
+# Face detection and facial recognition along with recognized persons information fetched from database.
 
-#General Languages and versions
+# General Languages and versions
 
 • BeautifulSoup==3.2.1
 • blinker==1.3
